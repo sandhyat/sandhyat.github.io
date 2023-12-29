@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning | Sandhya Tripathi</title>
+    <link>https://sandhyat.github.io/tag/machine-learning/</link>
+      <atom:link href="https://sandhyat.github.io/tag/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    <description>Machine Learning</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 27 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://sandhyat.github.io/media/icon_hu3e3f1b1735a575f65ba86d4cadd72940_8460_512x512_fill_lanczos_center_3.png</url>
+      <title>Machine Learning</title>
+      <link>https://sandhyat.github.io/tag/machine-learning/</link>
+    </image>
+    
+    <item>
+      <title>Fairness evaluation methods in clinical prediction model</title>
+      <link>https://sandhyat.github.io/project/example-1/</link>
+      <pubDate>Sun, 27 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://sandhyat.github.io/project/example-1/</guid>
+      <description>&lt;p&gt;With the much needed discussion about fairness, explainability and transparency of machine learning models, their application in high-impact clinical decision-making systems must be scrutinized. We consider a real-life example of risk estimation before surgery and investigate the potential for bias or unfairness of a variety of algorithms. Our approach creates transparent documentation of potential bias so that the users can apply the model carefully. We augment a model-card like analysis using propensity scores with a decision-tree based guide for clinicians that would identify predictable shortcomings of the model. In addition to functioning as a guide for users, we propose that it can guide the algorithm development and informatics team to focus on data sources and structures that can address these shortcomings.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

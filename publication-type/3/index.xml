@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>3 | Academic</title>
+    <title>3 | Sandhya Tripathi</title>
     <link>https://sandhyat.github.io/publication-type/3/</link>
       <atom:link href="https://sandhyat.github.io/publication-type/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 22 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 28 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://sandhyat.github.io/media/icon_hu3e3f1b1735a575f65ba86d4cadd72940_8460_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
       <link>https://sandhyat.github.io/publication-type/3/</link>
     </image>
+    
+    <item>
+      <title>Multi-View Representation Learning to Schema Match Databases</title>
+      <link>https://sandhyat.github.io/publication/preprint_schemamatching1/</link>
+      <pubDate>Mon, 28 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://sandhyat.github.io/publication/preprint_schemamatching1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Deep Learning to Jointly Schema Match, Impute, and Transform Databases</title>
